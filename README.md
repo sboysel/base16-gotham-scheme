@@ -1,6 +1,6 @@
 # base16-gotham-scheme
 
-![spectrum](https://raw.githubusercontent.com/sboysel/base16-gotham-scheme/master/gotham.png)
+![spectrum](https://github.com/sboysel/base16-gotham-scheme/blob/main/gotham.png)
 
 Based on the Gotham colorscheme by [whatyouhide/vim-gotham](https://github.com/whatyouhide/vim-gotham).
 
